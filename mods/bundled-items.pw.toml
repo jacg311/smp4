@@ -1,0 +1,13 @@
+name = "Bundled Items"
+filename = "bundleditems-v1.4.2-mc1.20.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1iPAOcXf/versions/sA3tiJOH/bundleditems-v1.4.2-mc1.20.x.jar"
+hash-format = "sha1"
+hash = "a479d63f2469d75024cc435a3d73fabfa4d5a691"
+
+[update]
+[update.modrinth]
+mod-id = "1iPAOcXf"
+version = "sA3tiJOH"
