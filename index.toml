@@ -11,6 +11,11 @@ hash = "a0e963cc6dfe134451911eacb5f30ed73163b0662500903838a816f3d68dedce"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "e256b55ec94408fd32ba3963fb21cd54718a087134ed24ea2c4c660f25bae977"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "3b3eb136a09515edaa9d3b6fba49ac2d025c1dba4a5a0d9d7fdab1e17c6bddfb"
 metafile = true
@@ -46,8 +51,18 @@ hash = "6389ca5bb1995dbd6983231d67a604f912d58dfb5d9a6f69d2b8e2ded83e848b"
 metafile = true
 
 [[files]]
+file = "mods/chais-inventory-sorter.pw.toml"
+hash = "35ceaaf649d2012bfdb924122794b5403518009a92f626f45cbe76da41d31ce5"
+metafile = true
+
+[[files]]
 file = "mods/chalk.pw.toml"
 hash = "cbe1506262f33b0d0108bf07762b4a393581f8b54c88157b07f47c4b9b322cea"
+metafile = true
+
+[[files]]
+file = "mods/clickthrough.pw.toml"
+hash = "896caf86ddf75501e5634614e700e1feffcf1a3a2cb1234200a5eb62f99b39b5"
 metafile = true
 
 [[files]]
@@ -58,6 +73,21 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
+metafile = true
+
+[[files]]
+file = "mods/dcwa.pw.toml"
+hash = "63df597831cc42d4d8ca87feeae706dc3cf57dd56acfb971d67c6f55ba7e6e5b"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "48b9e762a379ac211a95e9a8f181ce52795251610715c448e50f630ad89fe577"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "28e274fb3b75d8e2604eab07f9ea6e9d663fa8a24aeafce09bdbfe5d3a88fac5"
 metafile = true
 
 [[files]]
@@ -106,6 +136,11 @@ hash = "7169f560465ba70f204d3c4189cf3d1faef8ae6cf3dc063733a4d53f612a4d94"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "919e0f9bdf11b4960591cef1f0cb7fe6bb8bbf21135b423c0d014b00b4a06cb8"
+metafile = true
+
+[[files]]
 file = "mods/lavender.pw.toml"
 hash = "21d774a3fae3732b0cfaef7fc26c33395b04364bcd242ba2de3f3e25098f5e5e"
 metafile = true
@@ -151,6 +186,11 @@ hash = "b57cde2bb6508933e6a1ecbf202b5619063b1395223c36212d514110bd568659"
 metafile = true
 
 [[files]]
+file = "mods/reacharound.pw.toml"
+hash = "1bdc2b4d59ee6805bcd05fb4a68782c2a020270a7da21531b245fd03b5ba2426"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "3227928d92806847f3782a9d44bae63a22f00268ead7a91ab980352dc8bbf1d7"
 metafile = true
@@ -178,6 +218,16 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "9b42989d1485831cb2c269c9fe6118b6dfc80397e050b3e79cfeca4e1d626b45"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "868925f9646189c9d395ee0a1c3672e031e9261f91273d666f47d5e080e968c7"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "e92e0c8f73b049649c18fc8a5f2e9a7fe310ed6cec310811399db51b99a2b715"
 metafile = true
 
 [[files]]
