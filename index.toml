@@ -91,6 +91,11 @@ hash = "63df597831cc42d4d8ca87feeae706dc3cf57dd56acfb971d67c6f55ba7e6e5b"
 metafile = true
 
 [[files]]
+file = "mods/delightful-froge.pw.toml"
+hash = "3762b991984b24a9374484e4ad0134f876b4453c3432c460b8446c3f0a0114b1"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "76e669f772f419df7a3e0ce38d368247a9cdba87080e5dfd9e090bcce6a77b40"
 metafile = true
