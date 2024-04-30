@@ -51,11 +51,6 @@ hash = "6389ca5bb1995dbd6983231d67a604f912d58dfb5d9a6f69d2b8e2ded83e848b"
 metafile = true
 
 [[files]]
-file = "mods/chais-inventory-sorter.pw.toml"
-hash = "febb241db901f13ebe7ac51e7d91c74fbcc4cb2685bcd3b285d70c8feff770df"
-metafile = true
-
-[[files]]
 file = "mods/chalk.pw.toml"
 hash = "cbe1506262f33b0d0108bf07762b4a393581f8b54c88157b07f47c4b9b322cea"
 metafile = true
@@ -203,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "7c647f3090c57732c32306de0a080ea190ec6562af5dbc2be3e7a9d4cadc8b7c"
+metafile = true
+
+[[files]]
+file = "mods/packed-inventory.pw.toml"
+hash = "9c54b316e35e5320bfcfcb964d29ca0b34515b7397a900cf6bd3274380a6e111"
 metafile = true
 
 [[files]]
