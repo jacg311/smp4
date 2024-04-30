@@ -1,0 +1,13 @@
+name = "Sync Re-Ported"
+filename = "sync-reported-mc1.20.4-4.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HDB2eFuZ/versions/vqNWWy7E/sync-reported-mc1.20.4-4.3.jar"
+hash-format = "sha1"
+hash = "7e47b5b3b77d5338b9c857a9d78fccf9ddbecce9"
+
+[update]
+[update.modrinth]
+mod-id = "HDB2eFuZ"
+version = "vqNWWy7E"

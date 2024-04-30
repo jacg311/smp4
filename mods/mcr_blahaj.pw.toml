@@ -1,0 +1,13 @@
+name = "Blahaj (Fabric)"
+filename = "blahaj_1.20.2-0.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/faitfqhg/versions/dqdvv9cQ/blahaj_1.20.2-0.6.1.jar"
+hash-format = "sha1"
+hash = "acd3762e2481f1ea5dfc3eec91ae00a593997b76"
+
+[update]
+[update.modrinth]
+mod-id = "faitfqhg"
+version = "dqdvv9cQ"
