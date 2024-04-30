@@ -66,6 +66,11 @@ hash = "e3ca186b116bd65d49fb0db709a1b37d303318e3afb2e06bc662313b53346d06"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "1ef34f834cf5965c03febda44a95ac6d8e61cb947aa5e5611767280ca6406956"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
 metafile = true
@@ -83,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/dcwa.pw.toml"
 hash = "63df597831cc42d4d8ca87feeae706dc3cf57dd56acfb971d67c6f55ba7e6e5b"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "76e669f772f419df7a3e0ce38d368247a9cdba87080e5dfd9e090bcce6a77b40"
 metafile = true
 
 [[files]]
@@ -228,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/satin-api.pw.toml"
 hash = "cf438cac936b77d9b9509203a3b35e5a3377eba8b84c8e0a4337006a40c1be6d"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "79511188bca048793fdc877fb4c1dcd60cad69a5922807c5676ddbbd14e7caad"
 metafile = true
 
 [[files]]

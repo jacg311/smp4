@@ -1,0 +1,13 @@
+name = "CICADA"
+filename = "cicada-lib-0.7.1+1.20.2-1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IwCkru1D/versions/wpHUQeA4/cicada-lib-0.7.1%2B1.20.2-1.20.4.jar"
+hash-format = "sha1"
+hash = "3e17bd12504c1a9b0863f021e441929060d3e8e0"
+
+[update]
+[update.modrinth]
+mod-id = "IwCkru1D"
+version = "wpHUQeA4"
