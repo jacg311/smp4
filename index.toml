@@ -51,6 +51,11 @@ hash = "6389ca5bb1995dbd6983231d67a604f912d58dfb5d9a6f69d2b8e2ded83e848b"
 metafile = true
 
 [[files]]
+file = "mods/chais-inventory-sorter.pw.toml"
+hash = "36358854b9e3c03895960dff198c2a7e712a78c34a6c95e4691fbd8f36053fb1"
+metafile = true
+
+[[files]]
 file = "mods/chalk.pw.toml"
 hash = "cbe1506262f33b0d0108bf07762b4a393581f8b54c88157b07f47c4b9b322cea"
 metafile = true
