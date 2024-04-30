@@ -1,0 +1,13 @@
+name = "Perihelion"
+filename = "perihelion-0.0.2+1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6aFuC4Ub/versions/fFBFJaJ5/perihelion-0.0.2%2B1.20.4.jar"
+hash-format = "sha1"
+hash = "f32825c890eb3c08ea00fe4c685236465a4825c9"
+
+[update]
+[update.modrinth]
+mod-id = "6aFuC4Ub"
+version = "fFBFJaJ5"

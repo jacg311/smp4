@@ -51,6 +51,11 @@ hash = "6389ca5bb1995dbd6983231d67a604f912d58dfb5d9a6f69d2b8e2ded83e848b"
 metafile = true
 
 [[files]]
+file = "mods/cerulean.pw.toml"
+hash = "e18a01ca86855ec700b915aadaf73a66121cb8a37b41a018e248f5c30e688fc9"
+metafile = true
+
+[[files]]
 file = "mods/chais-inventory-sorter.pw.toml"
 hash = "36358854b9e3c03895960dff198c2a7e712a78c34a6c95e4691fbd8f36053fb1"
 metafile = true
@@ -201,6 +206,11 @@ hash = "f27ad5ca187c5dc5bb410a21eebc10ae03e65e58ceb0e2981f5dafac350c6b07"
 metafile = true
 
 [[files]]
+file = "mods/operation-starcleave.pw.toml"
+hash = "6ae3eaebf863e7d436745b512f664723a49536166e9bc3ff84da1e86f9a2d0b4"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "7c647f3090c57732c32306de0a080ea190ec6562af5dbc2be3e7a9d4cadc8b7c"
 metafile = true
@@ -213,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "a0626154090e5879cb832c75cbc98251e246f0142999d496ac0b084f29a2bc02"
+metafile = true
+
+[[files]]
+file = "mods/perihelion.pw.toml"
+hash = "39ce73c5786f5a52f6dda367672543efa6dcc25afdde42c9cd20d712b1dbd459"
 metafile = true
 
 [[files]]
@@ -271,8 +286,18 @@ hash = "c910b8343d770be3958df8bdf37584bd29142a4a63bc79a6461ab67beec3248c"
 metafile = true
 
 [[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "b39682962003795c0460309315f1ad3672d89310e26df1633d3d5e8e131454fc"
+metafile = true
+
+[[files]]
 file = "mods/sync-fabric-reported.pw.toml"
 hash = "2564fa8b0c925cdb6d1e9d40d6462095eafb8517c8523edbca22de8fa6d81e92"
+metafile = true
+
+[[files]]
+file = "mods/teabridge.pw.toml"
+hash = "17fefd46461c409484f42fa9bda57aa939b74ea8a3d17b52d35b9fea51d7c2dd"
 metafile = true
 
 [[files]]
