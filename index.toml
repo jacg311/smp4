@@ -206,6 +206,11 @@ hash = "7c647f3090c57732c32306de0a080ea190ec6562af5dbc2be3e7a9d4cadc8b7c"
 metafile = true
 
 [[files]]
+file = "mods/packed-inventory.pw.toml"
+hash = "9c54b316e35e5320bfcfcb964d29ca0b34515b7397a900cf6bd3274380a6e111"
+metafile = true
+
+[[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "a0626154090e5879cb832c75cbc98251e246f0142999d496ac0b084f29a2bc02"
 metafile = true
