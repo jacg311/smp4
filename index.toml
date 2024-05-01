@@ -36,6 +36,11 @@ hash = "0e894cdbf8c22d3479563704621094510582632fb4946ea4623ca9d10b7c4d33"
 metafile = true
 
 [[files]]
+file = "mods/boatism.pw.toml"
+hash = "878ecdbd81d1a552ac7d95ed337b3558923e9ea1a8ccca83227c17d6be8f80c6"
+metafile = true
+
+[[files]]
 file = "mods/bundled-items.pw.toml"
 hash = "7f6a312b32bc552d56537686552ef4c9d1b4a162579b06f4f3b82f16072f53e8"
 metafile = true
