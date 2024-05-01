@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/affinity.pw.toml"
-hash = "ff857fd6aa9997b15035ddf8baa37c90a05cfaa5990115f0b866df359a9dfee2"
+hash = "51bea1fde035a8a389e221ad8f71527af2982fd270555d796ba60025ec4a0142"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/lavender.pw.toml"
-hash = "21d774a3fae3732b0cfaef7fc26c33395b04364bcd242ba2de3f3e25098f5e5e"
+hash = "5b6538d65fe54cf803d226dcfb3c1df1ae05e4aa1f8bd7ca9983e583b65571a5"
 metafile = true
 
 [[files]]
