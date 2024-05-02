@@ -76,6 +76,11 @@ hash = "d6de8fe9381427b13c6ecb2b80058b85f2cedf1d71678e9f680ffd3fa6b966ae"
 metafile = true
 
 [[files]]
+file = "mods/chowl-industries.pw.toml"
+hash = "f4f29fd1096fdc9d8893af04f5f6ecd787839c6eb4db10529ff2e5a7de7858d9"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "e3ca186b116bd65d49fb0db709a1b37d303318e3afb2e06bc662313b53346d06"
 metafile = true
@@ -98,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/convenient-mobgriefing.pw.toml"
 hash = "4b98683c6c0aacbd281d2a414cc3007884f21d012358d82d95055bdfd1ead9c2"
+metafile = true
+
+[[files]]
+file = "mods/creeper-healing.pw.toml"
+hash = "4cee262aad32fce9d3df9d21700531a34c35558e5edece230a557df4756be1c1"
 metafile = true
 
 [[files]]
