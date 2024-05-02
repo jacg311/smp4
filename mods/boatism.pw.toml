@@ -1,0 +1,13 @@
+name = "Boatism"
+filename = "boatism-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XA2EooAt/versions/A2V6yzFa/boatism-0.1.1.jar"
+hash-format = "sha1"
+hash = "7ffb175559c6f1e5fb0ef72eaf4f5c14ce5df7ae"
+
+[update]
+[update.modrinth]
+mod-id = "XA2EooAt"
+version = "A2V6yzFa"
