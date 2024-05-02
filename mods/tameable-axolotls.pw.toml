@@ -1,0 +1,13 @@
+name = "Tameable Axolotls"
+filename = "tameable_axolotls-1.0.4+1.20.1-1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wvPMjAk8/versions/6xQXskeL/tameable_axolotls-1.0.4%2B1.20.1-1.20.4.jar"
+hash-format = "sha1"
+hash = "0dc656e8211c3c5951ac707bf49deea7c43585ac"
+
+[update]
+[update.modrinth]
+mod-id = "wvPMjAk8"
+version = "6xQXskeL"

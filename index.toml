@@ -21,6 +21,11 @@ hash = "3b3eb136a09515edaa9d3b6fba49ac2d025c1dba4a5a0d9d7fdab1e17c6bddfb"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "36eff4e6316ffeb02187083c7d9b56ea81e1c12040bd232e8d45c3f72f4b2e1e"
+metafile = true
+
+[[files]]
 file = "mods/beautify-refabricated.pw.toml"
 hash = "92c9a2f1b0d57e08b18fab61bf1aa5aa772e346d473e58d4d377a877fe32b340"
 metafile = true
@@ -66,6 +71,11 @@ hash = "cbe1506262f33b0d0108bf07762b4a393581f8b54c88157b07f47c4b9b322cea"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "d6de8fe9381427b13c6ecb2b80058b85f2cedf1d71678e9f680ffd3fa6b966ae"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "e3ca186b116bd65d49fb0db709a1b37d303318e3afb2e06bc662313b53346d06"
 metafile = true
@@ -96,6 +106,11 @@ hash = "63df597831cc42d4d8ca87feeae706dc3cf57dd56acfb971d67c6f55ba7e6e5b"
 metafile = true
 
 [[files]]
+file = "mods/death-knell.pw.toml"
+hash = "4070c2b5c4528e2d6999f953ca8efd72e0842c57bbc3e1f90015061d8439c78f"
+metafile = true
+
+[[files]]
 file = "mods/delightful-froge.pw.toml"
 hash = "3762b991984b24a9374484e4ad0134f876b4453c3432c460b8446c3f0a0114b1"
 metafile = true
@@ -118,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "07e0e6a791f94db3ff245a16ba014936e35410fe0ee9aba9cbac2deee25f5a70"
+metafile = true
+
+[[files]]
+file = "mods/factory-blocks.pw.toml"
+hash = "52f832e62f1ee88d3f7db99f8a48eebf1f7da52723f937bad138ece11d108127"
 metafile = true
 
 [[files]]
@@ -148,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+metafile = true
+
+[[files]]
+file = "mods/indypets.pw.toml"
+hash = "555cb5eb3d23b4f4c3671288adcaa95db2ec1771fc80afbd1bad248f38d3b0c2"
 metafile = true
 
 [[files]]
@@ -293,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/sync-fabric-reported.pw.toml"
 hash = "2564fa8b0c925cdb6d1e9d40d6462095eafb8517c8523edbca22de8fa6d81e92"
+metafile = true
+
+[[files]]
+file = "mods/tameable-axolotls.pw.toml"
+hash = "e278de6adb1f71f217a77f348ee0f3f72542d843ed3c88165f2f6b81da8a92e3"
 metafile = true
 
 [[files]]

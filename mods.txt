@@ -1,0 +1,73 @@
+Affinity
+Anshar
+AppleSkin
+Architectury API
+Athena
+Beautify: Refabricated
+Better Archeology
+Blahaj (Fabric)
+Blocky Bass
+Bundled Items
+Cardinal Components API
+CC: Tweaked
+Cerulean
+Chai's Inventory Sorter
+Chalk (Fabric)
+Chipped
+Chunky
+CICADA
+Cloth Config API
+Continuity
+Convenient mobGriefing
+Death Knell
+Delightful Froge
+Disable Custom Worlds Advice
+Do a Barrel Roll
+Explorify
+Extended Drawers
+Fabric API
+Factory Blocks
+FerriteCore
+Forge Config API Port
+Handcrafted
+ImmediatelyFast
+Indium
+IndyPets - Independent Pets
+Iris Shaders
+Jade 🔍
+Lavender
+Lithium
+Loqui
+MCPitanLib
+MixinTrace
+Mod Menu
+NoDura
+Nullscape
+Operation: Starcleave
+oωo (owo-lib)
+Packed Inventory
+Paginated Advancements & Custom Frames
+Perihelion
+Pet the Frog
+Ping Wheel
+Reacharound
+ReFramed
+Resourceful Lib
+Roughly Enough Items (REI)
+Roughly Enough Professions (REP)
+Satin API
+Show Me Your Skin!
+Sodium
+Sodium Extra
+Space Cube
+Styled Chat
+Sync Re-Ported
+Tameable Axolotls
+TeaBridge
+TerraBlender
+Traveler's Backpack
+Trinkets
+Universal Graves
+Xaero's Minimap
+Xaero's World Map
+YUNG's API
