@@ -1,0 +1,13 @@
+name = "IndyPets - Independent Pets"
+filename = "indypets-1.3.4-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/SVJhmJvx/versions/IQzbczjG/indypets-1.3.4-1.20.1.jar"
+hash-format = "sha1"
+hash = "b3cf44ea6181efa737041cc716fdcd32b6c17b95"
+
+[update]
+[update.modrinth]
+mod-id = "SVJhmJvx"
+version = "IQzbczjG"
