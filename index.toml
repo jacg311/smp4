@@ -385,6 +385,11 @@ hash = "d9dd1a1c2bf6f057dff10054aba23081bfb642d57c3422ddf9fae24ebdff412a"
 metafile = true
 
 [[files]]
+file = "mods/wearthat.pw.toml"
+hash = "3444df423ca287ea5b4be65d8696454ae410e030e918174d7102c22c9f29d25b"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "868925f9646189c9d395ee0a1c3672e031e9261f91273d666f47d5e080e968c7"
 metafile = true
