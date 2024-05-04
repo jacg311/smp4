@@ -85,6 +85,11 @@ hash = "d6de8fe9381427b13c6ecb2b80058b85f2cedf1d71678e9f680ffd3fa6b966ae"
 metafile = true
 
 [[files]]
+file = "mods/chowl-industries.pw.toml"
+hash = "92c30b46a8437204ab3934de2b1880618a1168d581b1284055dfdd2b6eeba729"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "e3ca186b116bd65d49fb0db709a1b37d303318e3afb2e06bc662313b53346d06"
 metafile = true
