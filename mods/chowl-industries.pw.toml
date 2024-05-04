@@ -1,0 +1,7 @@
+name = "chowl-industries"
+filename = "chowl-industries-1.0.0-2.jar"
+
+[download]
+url = "https://maven.enjarai.dev/mirrors/com/chyzman/chowl-industries/1.0.0-2/chowl-industries-1.0.0-2.jar"
+hash-format = "sha256"
+hash = "eee0daa6bef90b3d37eeff3af598cff6103b86fbf24e0f4aa30c83a00933477b"

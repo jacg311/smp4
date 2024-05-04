@@ -7,6 +7,7 @@ Beautify: Refabricated
 Better Archeology
 Blahaj (Fabric)
 Blocky Bass
+Boatism
 Bundled Items
 Cardinal Components API
 CC: Tweaked
@@ -19,6 +20,7 @@ CICADA
 Cloth Config API
 Continuity
 Convenient mobGriefing
+Creeper Healing
 Death Knell
 Delightful Froge
 Disable Custom Worlds Advice
@@ -29,6 +31,7 @@ Fabric API
 Factory Blocks
 FerriteCore
 Forge Config API Port
+Geckolib
 Handcrafted
 ImmediatelyFast
 Indium
@@ -44,6 +47,7 @@ Mod Menu
 NoDura
 Nullscape
 Operation: Starcleave
+oritech
 oωo (owo-lib)
 Packed Inventory
 Paginated Advancements & Custom Frames
@@ -51,12 +55,14 @@ Perihelion
 Pet the Frog
 Ping Wheel
 Reacharound
+Reborn Core
 ReFramed
 Resourceful Lib
 Roughly Enough Items (REI)
 Roughly Enough Professions (REP)
 Satin API
 Show Me Your Skin!
+Smart Villagers Follow Emeralds
 Sodium
 Sodium Extra
 Space Cube
@@ -68,6 +74,7 @@ TerraBlender
 Traveler's Backpack
 Trinkets
 Universal Graves
+WearThat
 Xaero's Minimap
 Xaero's World Map
 YUNG's API
