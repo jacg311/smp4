@@ -1,0 +1,7 @@
+name = "oritech"
+filename = "oritech-0.0.1.jar"
+
+[download]
+url = "https://github.com/Rearth/Oritech/releases/download/v0.1.1/oritech-0.0.1.jar"
+hash-format = "sha256"
+hash = "8967a06cff1fed96e6750edd47302b95052de43f8cb94465ee81a7bb4103aacb"

@@ -85,11 +85,6 @@ hash = "d6de8fe9381427b13c6ecb2b80058b85f2cedf1d71678e9f680ffd3fa6b966ae"
 metafile = true
 
 [[files]]
-file = "mods/chowl-industries.pw.toml"
-hash = "f4f29fd1096fdc9d8893af04f5f6ecd787839c6eb4db10529ff2e5a7de7858d9"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "e3ca186b116bd65d49fb0db709a1b37d303318e3afb2e06bc662313b53346d06"
 metafile = true
@@ -175,6 +170,11 @@ hash = "4063f7d36849c040bbb797a65819690273d247c61e662772393653ce6615ed81"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "181b258a0e00b0d27e657d7618d2b4ef739227c6a37a6497f5618940ac30abb7"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "c81ee7883b88cc227a285a91f0da045946797b98dd365f36788f9a6322238077"
 metafile = true
@@ -255,6 +255,11 @@ hash = "6ae3eaebf863e7d436745b512f664723a49536166e9bc3ff84da1e86f9a2d0b4"
 metafile = true
 
 [[files]]
+file = "mods/oritech.pw.toml"
+hash = "ca79f692f65f32d41e39be6f3c7662d337b4d8d08addeb914264c6a4ce72f7e0"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "7c647f3090c57732c32306de0a080ea190ec6562af5dbc2be3e7a9d4cadc8b7c"
 metafile = true
@@ -285,6 +290,11 @@ hash = "1bdc2b4d59ee6805bcd05fb4a68782c2a020270a7da21531b245fd03b5ba2426"
 metafile = true
 
 [[files]]
+file = "mods/reborncore.pw.toml"
+hash = "fa235c58e2c2d3509a6f059240e2f4ce91d86acec018149cc06e888d9bab9ff5"
+metafile = true
+
+[[files]]
 file = "mods/reframed.pw.toml"
 hash = "5541e015b268813494a80f7d768a2122c9a803cfb118d55c6bb547841c4ac1fe"
 metafile = true
@@ -312,6 +322,11 @@ metafile = true
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "79511188bca048793fdc877fb4c1dcd60cad69a5922807c5676ddbbd14e7caad"
+metafile = true
+
+[[files]]
+file = "mods/smart-villagers-follow-emeralds.pw.toml"
+hash = "bda5e7d21b698facaa7c5807eb10ddb6a6c4a6928ece5fe1a914eb9bf6932079"
 metafile = true
 
 [[files]]
@@ -367,6 +382,11 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "d9dd1a1c2bf6f057dff10054aba23081bfb642d57c3422ddf9fae24ebdff412a"
+metafile = true
+
+[[files]]
+file = "mods/wearthat.pw.toml"
+hash = "3444df423ca287ea5b4be65d8696454ae410e030e918174d7102c22c9f29d25b"
 metafile = true
 
 [[files]]
