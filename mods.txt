@@ -15,6 +15,7 @@ Cerulean
 Chai's Inventory Sorter
 Chalk (Fabric)
 Chipped
+chowl-industries
 Chunky
 CICADA
 Cloth Config API
