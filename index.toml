@@ -225,6 +225,11 @@ hash = "8e273299702b68a6503a2d4bd42a05b629a207d84e7fcb6e7510276ac16e0c89"
 metafile = true
 
 [[files]]
+file = "mods/louis-stupid.pw.toml"
+hash = "4444efa0c3a946b644f0ce5373255d2ae147a72309b22fd37513bdd6d81add86"
+metafile = true
+
+[[files]]
 file = "mods/mcpitanlibarch.pw.toml"
 hash = "f4b1d7315d7916b3e8c519b6a0ebc1fa0f5a803e0ebdfc0991c63011364ea31e"
 metafile = true
