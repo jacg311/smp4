@@ -42,6 +42,7 @@ Jade 🔍
 Lavender
 Lithium
 Loqui
+louis-stupid
 MCPitanLib
 MixinTrace
 Mod Menu

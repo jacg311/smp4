@@ -1,7 +1,7 @@
 name = "louis-stupid"
-filename = "NoFarmlandTrample-1.0.jar"
+filename = "NoFarmlandTrample-1.1.jar"
 
 [download]
-url = "https://github.com/Dev0Louis/NoFarmlandTrample/releases/download/1.0/NoFarmlandTrample-1.0.jar"
+url = "https://github.com/Dev0Louis/NoFarmlandTrample/releases/download/1.1/NoFarmlandTrample-1.1.jar"
 hash-format = "sha256"
-hash = "4915f7d4b6a00f5a162a1e0bc5dfd59a22269d8b0b9447095483de2d3f86c98e"
+hash = "cd728f257c40212a416d60d1569207e80f2cf55a10e20039d9e628de0a30db36"
