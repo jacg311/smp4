@@ -46,6 +46,7 @@ louis-stupid
 MCPitanLib
 MixinTrace
 Mod Menu
+Nature's Compass
 NoDura
 Nullscape
 Operation: Starcleave
