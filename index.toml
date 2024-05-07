@@ -130,6 +130,11 @@ hash = "4070c2b5c4528e2d6999f953ca8efd72e0842c57bbc3e1f90015061d8439c78f"
 metafile = true
 
 [[files]]
+file = "mods/decorative-blocks.pw.toml"
+hash = "4ab22208a98e8cca258092f33ab8e7ed3fb625a9165149f7f1249b6749b24ff6"
+metafile = true
+
+[[files]]
 file = "mods/delightful-froge.pw.toml"
 hash = "3762b991984b24a9374484e4ad0134f876b4453c3432c460b8446c3f0a0114b1"
 metafile = true
@@ -211,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/lavender.pw.toml"
-hash = "5b6538d65fe54cf803d226dcfb3c1df1ae05e4aa1f8bd7ca9983e583b65571a5"
+hash = "2392c589dcb7a6a335f647fc59ab1b2d3e0bff8cbc878f0ea78bdad81a2ce065"
 metafile = true
 
 [[files]]

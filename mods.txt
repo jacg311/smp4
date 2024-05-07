@@ -23,6 +23,7 @@ Continuity
 Convenient mobGriefing
 Creeper Healing
 Death Knell
+Decorative Blocks
 Delightful Froge
 Disable Custom Worlds Advice
 Do a Barrel Roll
