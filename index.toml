@@ -336,11 +336,6 @@ hash = "cf438cac936b77d9b9509203a3b35e5a3377eba8b84c8e0a4337006a40c1be6d"
 metafile = true
 
 [[files]]
-file = "mods/sensible-sleepiness.pw.toml"
-hash = "662c1caab3e3e6bca7a75a7c413354d146601bec18953d56b59d4cce48f4e042"
-metafile = true
-
-[[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "79511188bca048793fdc877fb4c1dcd60cad69a5922807c5676ddbbd14e7caad"
 metafile = true
