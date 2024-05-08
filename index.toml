@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "76e669f772f419df7a3e0ce38d368247a9cdba87080e5dfd9e090bcce6a77b40"
+hash = "3077ec0706906a77f63dc26c745194daa45b6dad5a2bc77c764678cf99753bd5"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcr_blahaj.pw.toml"
-hash = "34a6c4447e7f03ef8212543fdce481c6af69d52dfb62f9afc7f30cac3689fa1c"
+hash = "fa9d6c969c78aaa5b08da85647681ba8b7e7c12b11128b31b61e421d21600d79"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/nodura.pw.toml"
-hash = "9c39cb7a54aa9b5ea1d3f52e147e5d59d4671ecb6d0e90c9cf52c4f89a03fbf0"
+hash = "0d299fc1ccf714165aac82d830393430637f7ef3698976fd47a2f89bc8906341"
 metafile = true
 
 [[files]]
