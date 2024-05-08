@@ -65,6 +65,7 @@ Resourceful Lib
 Roughly Enough Items (REI)
 Roughly Enough Professions (REP)
 Satin API
+Sensible Sleepiness
 Show Me Your Skin!
 Smart Villagers Follow Emeralds
 Sodium
