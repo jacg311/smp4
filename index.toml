@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods.txt"
-hash = "de5a7fb33ee800f34bdc86233a31318184ca33d731cd72eb47ac3264da5b772a"
-
-[[files]]
 file = "mods/affinity.pw.toml"
 hash = "8e72ffdb4e3375a4833857257f90cfd796487fd85214399956e2115c07f7d72f"
 metafile = true
