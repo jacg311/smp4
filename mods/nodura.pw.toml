@@ -1,13 +1,13 @@
 name = "NoDura"
-filename = "no-dura-0.0.2+1.19.2.jar"
+filename = "nodura-0.0.3-1.19.2+.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/33JxPYdP/versions/kLYKc1VF/no-dura-0.0.2%2B1.19.2.jar"
+url = "https://cdn.modrinth.com/data/33JxPYdP/versions/gQW84TWp/nodura-0.0.3-1.19.2%2B.jar"
 hash-format = "sha1"
-hash = "cc91e6c327e86c0ceec844578ddfb336fc23d1f5"
+hash = "f621e0a48830f688fe994fdec4afb4dcda32e11e"
 
 [update]
 [update.modrinth]
 mod-id = "33JxPYdP"
-version = "kLYKc1VF"
+version = "gQW84TWp"

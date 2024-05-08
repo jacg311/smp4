@@ -23,6 +23,7 @@ Continuity
 Convenient mobGriefing
 Creeper Healing
 Death Knell
+Decorative Blocks
 Delightful Froge
 Disable Custom Worlds Advice
 Do a Barrel Roll
@@ -46,6 +47,7 @@ louis-stupid
 MCPitanLib
 MixinTrace
 Mod Menu
+Nature's Compass
 NoDura
 Nullscape
 Operation: Starcleave
@@ -63,6 +65,7 @@ Resourceful Lib
 Roughly Enough Items (REI)
 Roughly Enough Professions (REP)
 Satin API
+Sensible Sleepiness
 Show Me Your Skin!
 Smart Villagers Follow Emeralds
 Sodium

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods.txt"
-hash = "d3312060a68bfe6bc0aaacb02c2b990ae3805130754302b6fa67f09eac6447d9"
+hash = "de5a7fb33ee800f34bdc86233a31318184ca33d731cd72eb47ac3264da5b772a"
 
 [[files]]
 file = "mods/affinity.pw.toml"
@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/chais-inventory-sorter.pw.toml"
-hash = "36358854b9e3c03895960dff198c2a7e712a78c34a6c95e4691fbd8f36053fb1"
+hash = "7e7b717516e80d08c6a2c41ef687f67e66f5be55f6db11832046eb17b8408177"
 metafile = true
 
 [[files]]
@@ -91,12 +91,12 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "e3ca186b116bd65d49fb0db709a1b37d303318e3afb2e06bc662313b53346d06"
+hash = "6211df918f9c91638c0e6e56361192afcd60d336b95687e4766540f9d2b6f118"
 metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "1ef34f834cf5965c03febda44a95ac6d8e61cb947aa5e5611767280ca6406956"
+hash = "194d90a17e46625efdbb720de99ffdb1319015d3618ec478a38927faf490f16c"
 metafile = true
 
 [[files]]
@@ -130,13 +130,18 @@ hash = "4070c2b5c4528e2d6999f953ca8efd72e0842c57bbc3e1f90015061d8439c78f"
 metafile = true
 
 [[files]]
+file = "mods/decorative-blocks.pw.toml"
+hash = "4ab22208a98e8cca258092f33ab8e7ed3fb625a9165149f7f1249b6749b24ff6"
+metafile = true
+
+[[files]]
 file = "mods/delightful-froge.pw.toml"
 hash = "3762b991984b24a9374484e4ad0134f876b4453c3432c460b8446c3f0a0114b1"
 metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "76e669f772f419df7a3e0ce38d368247a9cdba87080e5dfd9e090bcce6a77b40"
+hash = "3077ec0706906a77f63dc26c745194daa45b6dad5a2bc77c764678cf99753bd5"
 metafile = true
 
 [[files]]
@@ -186,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5ced7018dfc37d708c019789aee53cfc54c4a9b31139557871627176182caf93"
+hash = "d10d6632f398e4bc8f62555eab1d70a6624837741fc653f2e2a18188166c6477"
 metafile = true
 
 [[files]]
@@ -211,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/lavender.pw.toml"
-hash = "5b6538d65fe54cf803d226dcfb3c1df1ae05e4aa1f8bd7ca9983e583b65571a5"
+hash = "2392c589dcb7a6a335f647fc59ab1b2d3e0bff8cbc878f0ea78bdad81a2ce065"
 metafile = true
 
 [[files]]
@@ -236,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcr_blahaj.pw.toml"
-hash = "34a6c4447e7f03ef8212543fdce481c6af69d52dfb62f9afc7f30cac3689fa1c"
+hash = "fa9d6c969c78aaa5b08da85647681ba8b7e7c12b11128b31b61e421d21600d79"
 metafile = true
 
 [[files]]
@@ -250,8 +255,13 @@ hash = "f334786b4fa5a2cb0a6a952fa2a6ab74de3395c2be806045ea3a5905edd75363"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "00e0b1c8ea87947a02358597a358fc24e542086ad8cd03b885e51a71fe189b66"
+metafile = true
+
+[[files]]
 file = "mods/nodura.pw.toml"
-hash = "9c39cb7a54aa9b5ea1d3f52e147e5d59d4671ecb6d0e90c9cf52c4f89a03fbf0"
+hash = "0d299fc1ccf714165aac82d830393430637f7ef3698976fd47a2f89bc8906341"
 metafile = true
 
 [[files]]
@@ -301,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/reborncore.pw.toml"
-hash = "fa235c58e2c2d3509a6f059240e2f4ce91d86acec018149cc06e888d9bab9ff5"
+hash = "b2a62e63617ae4c61af462fe1e82ce4eaeeb961f9fec2d89d1cb4159c9614c8e"
 metafile = true
 
 [[files]]
@@ -327,6 +337,11 @@ metafile = true
 [[files]]
 file = "mods/satin-api.pw.toml"
 hash = "cf438cac936b77d9b9509203a3b35e5a3377eba8b84c8e0a4337006a40c1be6d"
+metafile = true
+
+[[files]]
+file = "mods/sensible-sleepiness.pw.toml"
+hash = "662c1caab3e3e6bca7a75a7c413354d146601bec18953d56b59d4cce48f4e042"
 metafile = true
 
 [[files]]
