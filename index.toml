@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/nodura.pw.toml"
-hash = "0d299fc1ccf714165aac82d830393430637f7ef3698976fd47a2f89bc8906341"
+hash = "9c39cb7a54aa9b5ea1d3f52e147e5d59d4671ecb6d0e90c9cf52c4f89a03fbf0"
 metafile = true
 
 [[files]]
