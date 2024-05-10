@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/affinity.pw.toml"
-hash = "8e72ffdb4e3375a4833857257f90cfd796487fd85214399956e2115c07f7d72f"
+hash = "00f6a8e70ef39dc27347a8022bb408beeaf012a7197a9d5ee01cf2841aa586d1"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/factory-blocks.pw.toml"
-hash = "52f832e62f1ee88d3f7db99f8a48eebf1f7da52723f937bad138ece11d108127"
+hash = "ae4349f968d63ceb2735e0f7f7bf647a1433820b5f28b59cb3a8186210ce2d36"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/nodura.pw.toml"
-hash = "9c39cb7a54aa9b5ea1d3f52e147e5d59d4671ecb6d0e90c9cf52c4f89a03fbf0"
+hash = "795281f8c89ba33c4f810c026ea659fccc9e407c5a3ef20c902afebbf489992b"
 metafile = true
 
 [[files]]
@@ -417,5 +417,5 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "5ca8392f7c2a2204723fdd74b7c78f20ca9cf1b4fb9b13604d412e00e824cc5d"
+hash = "c1f303e748533026bac66512ca2986c269563c53a33a3ffeef2da2bbfb1a6347"
 metafile = true
