@@ -1,13 +1,13 @@
 name = "Affinity"
-filename = "affinity-0.1-alpha.10+1.20.3.jar"
+filename = "affinity-0.1-alpha.11+1.20.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Y8TA5POy/versions/GTf0sNMP/affinity-0.1-alpha.10%2B1.20.3.jar"
+url = "https://cdn.modrinth.com/data/Y8TA5POy/versions/3ATyK1iJ/affinity-0.1-alpha.11%2B1.20.3.jar"
 hash-format = "sha1"
-hash = "c45a9b06a2eeb42a863b42814d1ca9fbdd25cc44"
+hash = "43bfd21d5fd414a46b3da434674dbec1af12673b"
 
 [update]
 [update.modrinth]
 mod-id = "Y8TA5POy"
-version = "GTf0sNMP"
+version = "3ATyK1iJ"
