@@ -331,6 +331,11 @@ hash = "3227928d92806847f3782a9d44bae63a22f00268ead7a91ab980352dc8bbf1d7"
 metafile = true
 
 [[files]]
+file = "mods/rolling-down-in-the-deep.pw.toml"
+hash = "f9d57c066b44e446e07b6f0d47f568def4a82d68a42e72bc86edd696332ac90d"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
 hash = "e3ae031fd22336456f5e4efe270a474cb1981590de8e9d4e15e719015cd047d1"
 metafile = true
