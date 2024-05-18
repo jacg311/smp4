@@ -1,13 +1,13 @@
 name = "ReFramed"
-filename = "ReFramed-1.5.6.jar"
+filename = "ReFramed-1.5.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jCpoCBpn/versions/S99dyOZE/ReFramed-1.5.6.jar"
+url = "https://cdn.modrinth.com/data/jCpoCBpn/versions/XlymER0i/ReFramed-1.5.9.jar"
 hash-format = "sha1"
-hash = "f6a13527a571b6129f319431d3d7374c927c4b31"
+hash = "92368493854e62b14db1b34ef3e33878631739d3"
 
 [update]
 [update.modrinth]
 mod-id = "jCpoCBpn"
-version = "S99dyOZE"
+version = "XlymER0i"
