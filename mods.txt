@@ -56,6 +56,7 @@ oritech
 oωo (owo-lib)
 Packed Inventory
 Paginated Advancements & Custom Frames
+Particular ✨
 Perihelion
 Pet the Frog
 Ping Wheel
@@ -63,6 +64,7 @@ Reacharound
 Reborn Core
 ReFramed
 Resourceful Lib
+Rolling Down in the Deep
 Roughly Enough Items (REI)
 Roughly Enough Professions (REP)
 Satin API
