@@ -52,7 +52,6 @@ Nature's Compass
 NoDura
 Nullscape
 Operation: Starcleave
-oritech
 oωo (owo-lib)
 Packed Inventory
 Paginated Advancements & Custom Frames
@@ -77,6 +76,7 @@ Styled Chat
 Sync Re-Ported
 Tameable Axolotls
 TeaBridge
+Tech Reborn
 TerraBlender
 Traveler's Backpack
 Trinkets
