@@ -1,13 +1,13 @@
 name = "Lavender"
-filename = "lavender-0.1.8+1.20.3.jar"
+filename = "lavender-0.1.9+1.20.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/D5h9NKNI/versions/CoUIzZjj/lavender-0.1.8%2B1.20.3.jar"
+url = "https://cdn.modrinth.com/data/D5h9NKNI/versions/7T1hNPCw/lavender-0.1.9%2B1.20.3.jar"
 hash-format = "sha1"
-hash = "4d38ea2411ad29a4ffc61c7711bf54c10b40b4be"
+hash = "d1957e0533e85ec6873089a2a1924478a53fce9b"
 
 [update]
 [update.modrinth]
 mod-id = "D5h9NKNI"
-version = "CoUIzZjj"
+version = "7T1hNPCw"

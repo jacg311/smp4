@@ -3,11 +3,6 @@ filename = "sync-reported-mc1.20.4-4.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HDB2eFuZ/versions/vqNWWy7E/sync-reported-mc1.20.4-4.3.jar"
-hash-format = "sha1"
-hash = "7e47b5b3b77d5338b9c857a9d78fccf9ddbecce9"
-
-[update]
-[update.modrinth]
-mod-id = "HDB2eFuZ"
-version = "vqNWWy7E"
+url = "https://github.com/jacg311/sync-fabric/releases/download/v4.3%2Bbuild.4-bugfix/sync-mc1.20.4-4.3+build.4.jar"
+hash-format = "sha256"
+hash = "355fd185cdfafe6d7167f6ef104f09aee7db48f8007807683d982fe4551e1c9d"

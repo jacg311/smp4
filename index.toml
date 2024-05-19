@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/affinity.pw.toml"
-hash = "4b12e8eed6a4997ef5e8280fe2890f22d1899728f6ca04945f1025053890710c"
+hash = "534eecf2b51e85e6a0fffd086b1730cd7cd135b529519ac55607aee3d93b810a"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/lavender.pw.toml"
-hash = "2392c589dcb7a6a335f647fc59ab1b2d3e0bff8cbc878f0ea78bdad81a2ce065"
+hash = "67a1d9914aada653bedfce41c308bea42980cdc02330c06180fa865606152f32"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/particular.pw.toml"
-hash = "f87063ae48e047c18c0e6bffdc7661e7f45a84f331ffd48d8c0fcbc39a218010"
+hash = "aefa805dc110a63a52f60c4785ef0d6ca8eaf7791999e6c9c37781981b315e7a"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/sync-fabric-reported.pw.toml"
-hash = "2564fa8b0c925cdb6d1e9d40d6462095eafb8517c8523edbca22de8fa6d81e92"
+hash = "04cb75fdceeb4ecc0b2c09d406d7acc053ff26f6ed117e92d8ee7e524851cd22"
 metafile = true
 
 [[files]]
